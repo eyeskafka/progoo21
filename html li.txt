@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<meta charset="UTF-8">
+<head>
+<title>Page Title</title>
+
+</head>
+<body>
+
+<p>
+<h1 style="background-color:MediumSeaGreen; font-family:verdana"> <i> Tomografia de Coerência Óptica </i></h1>
+
+
+
+<ul style="list-style-type:disc">
+  <li>Olho direito</li>
+  <li>Olho esquerdo </li>
+  <li>Ambos os olhos</li>
+</ul>
+
+<p>
+<img scr="https://assets.bmctoday.net/glaucomatoday/images/articles/2015-04/tech_fig1all.jpg" alt="Imagens do Disco Óptico.com" height= "200px" width="300px">
+<a href= "https://glaucomatoday.com/articles/2015-mar-apr/evaluating-the-optic-nerve-for-glaucomatous-damage-with-oct" alt="Imagem do Disco Óptico do Olho Direito">
+</a>
+
+</p>
+
+<table style= table,th, td, border= 1px  bordercolor= gray>
+<tr>
+<caption> Medidas do Nervo Óptico </caption>
+    <th>OD</th>
+    <th>OE</th>
+  </tr>
+  <tr>
+  <td>0,5 mm</td>
+  <td>0,6 mm</td>
+  </tr>
+  </table>
+
+</body>
+</html>
+
+
